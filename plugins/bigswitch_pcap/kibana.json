@@ -1,0 +1,10 @@
+{
+  "id": "pcap",
+  "version": "1.0.0",
+  "owner": {"name": "Analytics Node team"},
+  "kibanaVersion": "kibana",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["data", "expressions", "visualizations"],
+  "optionalPlugins": []
+}
