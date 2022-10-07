@@ -60,6 +60,12 @@ npm-debug.log*
 .ci/bash_standard_lib.sh
 .gradle
 
+# x-pack screenshotting
+**/screenshotting*
+
+# ? 
+*kbn-synthetic-package-map
+
 ## @cypress/snapshot from apm plugin
 snapshots.js
 
