@@ -1,0 +1,51 @@
+.center {
+  margin: 0 auto;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+.form-container {
+  min-width: 574px;
+  max-width: 682.33px;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.custom-grid {
+  margin: 0px !important;
+}
+
+.maxWidth {
+  max-width: 574px;
+}
+
+.custom-thirds-col {
+  min-width: 33%;
+  max-width: 33%;
+}
+
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.latex-container {
+  max-width: 574px;
+  overflow-x: auto;
+}
+
+.euiSuperDatePicker__flexWrapper {
+  max-width: 100%;
+  width: 100%;
+}
+
+.eui-description-custom {
+  font-size: 0.75rem !important;
+  margin-top: 0px !important;
+}

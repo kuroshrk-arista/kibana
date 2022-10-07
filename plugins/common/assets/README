@@ -1,0 +1,16 @@
+The logo.png file provides the kibana logo on the top left corner.
+
+The welcome.png file provides the circular icon in the middle of
+the login screen. It's also used when screen is busy waiting.
+The files are referenced from public/less/main.less.
+
+The favicon.ico is a small icon on the window tab of the browser.
+It overrides the default kibana favicon.ico.
+
+For Dell OEM builds, the files are copied over from bsn-dell-*
+files. These png files contains combined BSN and Dell-EMC logo
+edited by hand.
+
+It would be better to display the Dell-EMC logo at the separate
+location on the screen. This requires a bit more work. The
+combined images are good enough for now.

@@ -1,0 +1,12 @@
+<!-- <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> -->
+<svg class="euiIcon euiIcon--medium euiIcon--app euiListGroupItem__icon" width="100%" height="100%" viewBox="0 0 65 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-28.5,-17)">
+        <g id="Layer_2">
+            <g id="artwork">
+                <path class="euiIcon__fillSecondary" d="M92.09,75.09L75.09,58.09L74.64,58.54L71.2,62.07C62.72,69.17 51.2,69.92 42.42,63.3C36.652,58.977 33.25,52.176 33.25,44.968C33.25,32.4 43.592,22.058 56.16,22.058C68.699,22.058 79.028,32.351 79.07,44.89L71.75,44.89L80.89,54.06L90.07,44.92L83.07,44.92C83.026,30.182 70.888,18.08 56.15,18.08C41.382,18.08 29.23,30.232 29.23,45C29.23,59.76 41.37,71.909 56.13,71.92C61.242,71.908 66.247,70.444 70.56,67.7L85,82.16L92.09,75.09Z" style="fill:#343741" />
+                <path class="euiIcon__fillSecondary" d="M71.53,34.92C71.53,50.16 65.46,55.84 56.17,62.97C46.83,55.81 40.8,50.11 40.8,34.71C46.942,34.755 52.743,31.837 56.37,26.88C59.828,31.844 65.481,34.842 71.53,34.92ZM61.53,53.31L58.4,45C59.993,44.141 60.99,42.471 60.99,40.661C60.99,37.956 58.765,35.731 56.06,35.731C53.355,35.731 51.13,37.956 51.13,40.661C51.13,42.471 52.127,44.141 53.72,45L50.55,53.3L61.53,53.31Z" style="fill:#7DE2D1" />
+            </g>
+        </g>
+    </g>
+</svg>

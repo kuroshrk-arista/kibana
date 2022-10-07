@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./target",
+    "skipLibCheck": true
+  },
+   "include": [
+    ".",
+  ],
+  "exclude": []
+}
